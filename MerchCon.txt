@@ -1,2 +1,6 @@
 Hallo
+<<<<<<< HEAD
 greetings
+=======
+was geht ab?
+>>>>>>> d23c5277e42d77e0c68a218f8714e44836fc2947
